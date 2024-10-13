@@ -1,4 +1,5 @@
 import java.sql.*;
+// Imp to ADD MYSQL driver in library
 public class DEMO {
 
 	private static final String url="jdbc:mysql://localhost:3306/MYDB";
