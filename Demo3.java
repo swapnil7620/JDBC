@@ -4,7 +4,7 @@ public class DEMO3 {
 	private static final String url="jdbc:mysql://localhost:3306/MYDB";
 	
 	private static final String username="root";
-	private static final  String password="Put your own database name"; 
+	private static final  String password="Put your own database Password"; 
 
 	public static void main(String[] args) {
 		try {
